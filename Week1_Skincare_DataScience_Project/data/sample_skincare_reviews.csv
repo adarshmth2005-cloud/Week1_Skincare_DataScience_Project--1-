@@ -1,0 +1,21 @@
+product_name,skin_type,skin_concern,product_description,price_inr,rating,is_recommended,ingredients
+Hydra Gel Moisturizer,Oily,Acne,"Lightweight gel, niacinamide",499,4.3,1,lightweight;niacinamide
+Barrier Repair Cream,Dry,Dryness,"Ceramides, hyaluronic acid",799,4.6,1,ceramides;hyaluronic acid
+Daily Calm Cleanser,Sensitive,Redness,"Fragrance-free, gentle cleanser",599,4.1,1,fragrance-free;gentle
+Vitamin C Serum,Combination,Dullness,"Vitamin C, antioxidant",899,4.0,1,vitamin c;antioxidant
+Oil Control Gel,Oily,Acne,"Salicylic acid, gel texture",699,3.8,0,salicylic acid;gel
+Rich Night Cream,Dry,Dryness,"Shea butter, ceramides",999,4.4,1,shea butter;ceramides
+Soothing Moisturizer,Sensitive,Redness,"Panthenol, fragrance-free",749,4.5,1,panthenol;fragrance-free
+Daily SPF Lotion,Normal,Sun protection,Broad spectrum sunscreen,650,4.2,1,sunscreen;light lotion
+Pore Care Serum,Combination,Acne,"Niacinamide, zinc",850,3.9,0,niacinamide;zinc
+Hydrating Toner,Dry,Dryness,"Glycerin, hyaluronic acid",450,4.2,1,glycerin;hyaluronic acid
+Gentle Foam Wash,Oily,Acne,Mild surfactants,399,3.7,0,mild cleanser
+Calm Barrier Lotion,Sensitive,Dryness,"Ceramides, panthenol",899,4.7,1,ceramides;panthenol
+Brightening Essence,Normal,Dullness,Vitamin C derivative,1100,4.1,1,vitamin c;brightening
+Daily Balance Cream,Combination,Oiliness,"Light lotion, niacinamide",720,4.0,1,niacinamide;light lotion
+Repair Balm,Dry,Redness,"Oat extract, shea butter",850,4.3,1,oat extract;shea butter
+Matte Moisturizer,Oily,Oiliness,"Oil-free, lightweight",550,3.6,0,oil-free;lightweight
+Skin Comfort Cream,Sensitive,Dryness,"Fragrance-free, glycerin",680,4.4,1,fragrance-free;glycerin
+Antioxidant Serum,Normal,Dullness,"Vitamin C, vitamin E",1250,4.5,1,vitamin c;vitamin e
+Hydra Gel Moisturizer,Combination,Dryness,"Hyaluronic acid, gel",499,4.2,1,hyaluronic acid;gel
+Daily Calm Cleanser,Sensitive,Acne,"Gentle, fragrance-free",599,4.0,1,gentle;fragrance-free
